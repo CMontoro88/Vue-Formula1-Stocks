@@ -1,5 +1,5 @@
-# Formula1 Stocks Minigame
+# Formula1 Stocks Miniapp
 
-> Vue.js minigame 
+> Vue.js miniapp
 
 [Link](http://vuejs-tutorial-deploy.s3-website.eu-central-1.amazonaws.com)
