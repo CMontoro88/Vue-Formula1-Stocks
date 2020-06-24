@@ -1,6 +1,6 @@
-# vue-cli
+# Formula1 Stocks Minigame
 
-> A Vue.js project
+> Vue.js minigame project
 
 ## Build Setup
 
